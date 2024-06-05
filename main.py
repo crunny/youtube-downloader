@@ -10,7 +10,7 @@ ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("theme.json")
 
 root = ctk.CTk()
-root.title("YouTube Downloader")
+root.title("YouTube Downloader - GitHub.com/crunny")
 root.geometry("600x450")
 root.resizable(False, False)
 
