@@ -7,7 +7,7 @@ from moviepy.video.io.ffmpeg_tools import ffmpeg_merge_video_audio
 output_folder_path = os.path.join(os.path.expanduser("~"), "Downloads")
 
 ctk.set_appearance_mode("dark")
-ctk.set_default_color_theme("theme.json")
+ctk.set_default_color_theme("assets/theme.json")
 
 root = ctk.CTk()
 root.title("YouTube Downloader - GitHub.com/crunny")
