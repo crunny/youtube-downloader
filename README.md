@@ -1,5 +1,7 @@
 # YouTube Downloader
 
+## Currrently downloading some video's are throwing an error, audio still works fine though
+
 Simple YouTube downloader application built using Python. It allows you to download videos and audio from YouTube. The application has a GUI made with customtkinter and a custom theme. (Downloads stored in "~/Downloads" by default)
 
 ## Features
